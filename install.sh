@@ -51,6 +51,7 @@ fi
 echo "Installing Fonts..."
 cp *.ttf $FONT_PATH
 cp *.TTF $FONT_PATH
+cp *.ttc $FONT_PATH
 echo "Fixing Permissions..."
 chmod 644 $FONT_PATH/*
 echo "Rebuilding Font Cache..."
