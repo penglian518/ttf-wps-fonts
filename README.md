@@ -19,7 +19,7 @@ cd /tmp
 
 Clone the Git repository.
 ```
-git clone https://github.com/iamdh4/ttf-wps-fonts.git
+git clone https://github.com/penglian518/ttf-wps-fonts.git
 ```
 
 Enter the directory.
